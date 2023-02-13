@@ -1,4 +1,6 @@
-{
+{ "name": "goit-react-native-hw-1",
+  "version": "0.1.0",
+  "homepage": "https://github.com/HannaGolovashkina/goit-react-native-hw-1.git",
   "dependencies": {
     "expo-apple-authentication": "^5.0.1"
   }
